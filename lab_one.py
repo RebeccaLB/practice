@@ -1,7 +1,7 @@
 import random
 
 # declare and initialize a list of words
-words = ["orange", "animal", "river", "option", "sloth"]
+words = ["orange", "animal", "river", "option", "sloth", "rainbow"]
 # shuffling the words and putting them in a random order
 random.shuffle(words)
 
